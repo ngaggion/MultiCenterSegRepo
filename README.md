@@ -2,7 +2,7 @@
 
 This git repo contains the source code for the "Multi-center anatomical segmentation with heterogeneous labels via landmark-based models" paper.
 
-Arxiv link:
+Arxiv link: https://arxiv.org/abs/2211.07395
 
 ![image](figure.png)
 
@@ -17,3 +17,16 @@ Link to download the weights of the trained models: [drive](https://drive.google
 Link to download the latents for UMAP dimensionality reduction script: [drive](https://drive.google.com/file/d/13EKbgSNZ9pON_vuVHT99BVqSnlwj8Pae)
 
 For more information about the HybridGNet model please check the [HybridGNet](https://github.com/ngaggion/HybridGNet) repository.
+
+## Citation:
+
+````
+@misc{gaggion2022multicenter,
+      title={Multi-center anatomical segmentation with heterogeneous labels via landmark-based models}, 
+      author={Nicolás Gaggion and Maria Vakalopoulou and Diego H. Milone and Enzo Ferrante},
+      year={2022},
+      eprint={2211.07395},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
+````
