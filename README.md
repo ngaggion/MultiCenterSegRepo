@@ -2,7 +2,9 @@
 
 This git repo contains the source code for the "Multi-center anatomical segmentation with heterogeneous labels via landmark-based models" paper.
 
-Arxiv link: https://arxiv.org/abs/2211.07395
+The paper was accepted for publication at IEEE ISBI 2023!!! Check it on Arxiv: https://arxiv.org/abs/2211.07395
+
+Find an open source demo implementation of the model in HuggingFace Spaces: https://huggingface.co/spaces/ngaggion/Chest-x-ray-HybridGNet-Segmentation
 
 ![image](figure.png)
 
